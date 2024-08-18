@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>[Your Name] - Game Developer</title>
+    <title>Marcus - Game Developer</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -50,12 +50,12 @@
     </style>
 </head>
 <body>
-    <h1>Hello, I'm [Your Name]</h1>
+    <h1>Hello, I'm Marcus!</h1>
     <p>Welcome to my GitHub Pages site. I'm a Game Developer working with Unity and Godot.</p>
-    <a href="https://github.com/username" class="button">View My GitHub Profile</a>
+    <a href="https://github.com/forlornu" class="button">View My GitHub Profile</a>
 
     <footer>
-        &copy; 2024 [Your Name] | <a href="mailto:your.email@example.com" style="color: #4CAF50;">Contact Me</a>
+        &copy; 2024 ForlornU | <a href="mailto:forlornu@gmail.com" style="color: #4CAF50;">Contact Me</a>
     </footer>
 </body>
 </html>
